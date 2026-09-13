@@ -1,0 +1,60 @@
+[
+  {
+    "id": "kzel",
+    "number": "01",
+    "name": "KZEL Global Ventures",
+    "category": "Web & product",
+    "label": "FROM BUSINESS IDEA TO DIGITAL PRESENCE",
+    "description": "An export business, given a digital home. A focused website connecting Indian spices with international buyers.",
+    "tags": ["HTML / CSS", "JavaScript", "SEO"],
+    "repo": "https://github.com/Faizan-ahmed-ags/KZEL-GLOBAL-VENTURES",
+    "live": "https://kzel-global-ventures.vercel.app/",
+    "role": "Founder · Website development & SEO",
+    "status": "Published website",
+    "overview": "I wanted a credible digital presence for KZEL Global Ventures, my Indian spice export business. The website gives international buyers a clear route from exploring products to requesting a quotation.",
+    "contributions": [
+      "Built product, company and director pages around the information a B2B buyer needs.",
+      "Added page metadata, a sitemap, canonical URLs and organization structured data.",
+      "Connected the site to Vercel and worked through Google Search Console verification."
+    ],
+    "note": "The source repository includes the export website. Business outcomes and sales metrics are not claimed."
+  },
+  {
+    "id": "jarvis",
+    "number": "02",
+    "name": "JARVIS",
+    "category": "AI & automation",
+    "label": "A PERSONAL EXPERIMENT IN VOICE AI",
+    "description": "Exploring what a personal assistant can do when voice, desktop actions and memory come together.",
+    "tags": ["Python", "Voice AI", "Integration"],
+    "repo": "https://github.com/Faizan-ahmed-ags/jarvis-ai-assistant",
+    "role": "Personal setup, integration & experimentation",
+    "status": "Personal project · Open-source foundation",
+    "overview": "My JARVIS work explores a voice assistant on Windows: setting up speech input, wake-word listening, model connections and desktop workflows. The repository is based on MARK XLVIII by FatihMakes.",
+    "contributions": [
+      "Set up and tested voice input and wake-word listening on my Windows environment.",
+      "Explored model connections, local AI tools and persistent project memory.",
+      "Worked through the practical integration and troubleshooting needed to use an assistant day to day."
+    ],
+    "note": "Built on MARK XLVIII by FatihMakes. The upstream assistant architecture is credited to its original author; this is presented as personal integration work."
+  },
+  {
+    "id": "os",
+    "number": "03",
+    "name": "KZEL Operations",
+    "category": "Web & product",
+    "label": "MAKING A COMPLEX WORKFLOW FEEL CLEAR",
+    "description": "A visual workspace for markets, leads and AI agent activity. A product interface designed around an export founder’s day.",
+    "tags": ["React", "TypeScript", "Tailwind"],
+    "repo": "https://github.com/Faizan-ahmed-ags/KZEL-CRM",
+    "role": "Product direction · Frontend integration",
+    "status": "Interface prototype · Simulated workflows",
+    "overview": "The KZEL-CRM repository contains a KZEL OS interface prototype. It organizes specialized agent workspaces, market information, leads, campaigns and tasks into a single visual environment.",
+    "contributions": [
+      "Organized the experience around company functions such as research, buyer discovery and outreach.",
+      "Integrated an interface with agent workspaces, navigation and activity views.",
+      "Explored how execution state and view state can stay separate while a user moves between workspaces."
+    ],
+    "note": "The repository README identifies this milestone as a visual prototype. Agent events are simulated; provider connections and live execution are future integration work."
+  }
+]

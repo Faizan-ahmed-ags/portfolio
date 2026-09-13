@@ -1,0 +1,47 @@
+[
+  {
+    "id": "google-build-night-champion-2026",
+    "kind": "Award",
+    "eyebrow": "GOOGLE STUDENT AMBASSADOR PROGRAM 2026 · AWARD",
+    "title": "Fund My Crazy: Build Night Champion",
+    "issuer": "Google Student Ambassador Program 2026",
+    "description": "Recognized for an imaginative city reimagination created with Gemini and Nano Banana, with strong visual execution, originality and pitching.",
+    "date": "2026-07-30",
+    "dateLabel": "Awarded 30 July 2026",
+    "image": "/certificates/google-student-ambassador-build-night-champion.jpg",
+    "featured": true
+  },
+  {
+    "id": "tedx-sjcc-2026",
+    "kind": "Participation",
+    "eyebrow": "TEDxSJCC 3.0 · PARTICIPATION",
+    "title": "Artificial Minds, Natural Limits",
+    "issuer": "St Joseph’s College of Commerce",
+    "description": "The Sustainability Paradox in the Age of AI",
+    "date": "2026-08-29",
+    "dateLabel": "Attended 29 August 2026",
+    "image": "/certificates/tedx-sjcc-participation.jpg"
+  },
+  {
+    "id": "python-michigan-2026",
+    "kind": "Certificate",
+    "eyebrow": "COURSERA · COURSE CERTIFICATE",
+    "title": "Programming for Everybody (Getting Started with Python)",
+    "issuer": "University of Michigan",
+    "date": "2026-05-29",
+    "dateLabel": "Completed 29 May 2026",
+    "image": "/certificates/python-michigan.jpg"
+  },
+  {
+    "id": "renewable-energy-buffalo-2026",
+    "kind": "Certificate",
+    "eyebrow": "COURSERA · COURSE CERTIFICATE",
+    "title": "Renewable Energy: Fundamentals and Job Opportunities",
+    "issuer": "University at Buffalo",
+    "date": "2026-05-22",
+    "dateLabel": "Completed 22 May 2026",
+    "image": "/certificates/renewable-energy-buffalo.png",
+    "document": "/certificates/renewable-energy-buffalo.pdf",
+    "verifyUrl": "https://coursera.org/verify/PBVSG473W1NS"
+  }
+]
